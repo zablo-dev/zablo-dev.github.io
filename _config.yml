@@ -1,5 +1,5 @@
 title: Zabloudil Vojtěch
-#logo 
+logo: /assets/img/profilePic.PNG 
 description: Data Analyst / Scientist
-show_downloads: true
+#show_downloads: true
 theme: jekyll-theme-minimal
