@@ -18,6 +18,7 @@
 - Organizing and planning lessons.
 - Dealing with schools and parents.
 - Coordinating other teachers and team support in preparation.
+![Údaj QR](https://github.com/zablo-dev/zablo-dev.github.io/assets/154751011/7625e4e3-b72a-4585-88f4-820f9ab83f71)
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
