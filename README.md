@@ -1,8 +1,6 @@
 # Data scientist
 
-![vojta](https://github.com/zablo-dev/zablo-dev.github.io/assets/154751011/476092ef-e705-4200-8aa9-cbc7b4996af9)
-
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, AWS, Snowflake, PowerBI/Tableau/Looker, MS office
 
 ## Education
 - Ing, Data analytics for business | Faculty of Informatics and Statistics VŠE Prague (_May 2025_)								       		
@@ -23,5 +21,8 @@
 
 ## Projects
 ### Reporting and BI
+- In the realm of data-driven decision-making, my expertise lies in harnessing the power of reporting tools like Tableau and Power BI to extract actionable insights and drive business value.
+-  My proficiency in reporting tools such as PowerBI and Tableau enables me to create dynamic reports and dashboards that empower stakeholders to make informed decisions.
+-  My adeptness in Power BI encompasses a range of skills, including dashboard development, report creation, live querying, and proficiency in DAX and Power Query.
 ### Python and ML
 ### Cloud and AI (future technologies)
