@@ -1,6 +1,6 @@
 # Data scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, PowerBI/Tableau/Looker, MS office
+#### Technical Skills: Python, SQL, Keboola, Snowflake, PowerBI/Tableau/Looker, MS office
 
 ## Education
 - Ing, Data analytics for business | Faculty of Informatics and Statistics VŠE Prague (_May 2025_)								       		
