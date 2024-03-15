@@ -1,11 +1,13 @@
 # Data scientist
 
+![vojta](https://github.com/zablo-dev/zablo-dev.github.io/assets/154751011/476092ef-e705-4200-8aa9-cbc7b4996af9)
+
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ing, Data analytics for business | Faculty of Informatics and Statistics VŠE Prague (_May 2025_)								       		
+- Bc, Applied computer science | Faculty of Informatics and Statistics VŠE Prague (_June 2023_)	 			        		
+- Střední průmyslová škola strojní a stavební,Tábor (_May 2020_)
 
 ## Work Experience
 **Freelance web designer (_June 2021 - Present_)**
@@ -18,9 +20,8 @@
 - Organizing and planning lessons.
 - Dealing with schools and parents.
 - Coordinating other teachers and team support in preparation.
-![Údaj QR](https://github.com/zablo-dev/zablo-dev.github.io/assets/154751011/7625e4e3-b72a-4585-88f4-820f9ab83f71)
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-![EEG Band Discovery](/assets/Údaj QR.png)
-
+### Reporting and BI
+### Python and ML
+### Cloud and AI (future technologies)
