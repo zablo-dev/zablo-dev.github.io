@@ -30,8 +30,16 @@
 ![burger 1](https://github.com/zablo-dev/zablo-dev.github.io/assets/154751011/30c9db56-5dcf-4945-b971-15054af1bf0c)
 ![burger 2](https://github.com/zablo-dev/zablo-dev.github.io/assets/154751011/813ab7b5-6a5f-4864-bc80-d47d717606c9)
 ### Python and ML
-web scraping, ML, etl pipeliny
-### Other technologies
-Keboola - projekt
-Tvorba dwh
-Dawiso - kvalita
+-  My proficiency in Python extends across a spectrum of data manipulation, visualization, and machine learning capabilities. With expertise in libraries such as Pandas, NumPy, and Matplotlib, coupled with skills in web scraping and ETL pipeline development, I possess a versatile skill set suited for diverse data-centric tasks.
+-  I am currently working on developing a chatbot tailored for tourists visiting Prague. This project involves leveraging natural language processing (NLP) techniques and machine learning algorithms to create an interactive and user-friendly interface for tourists seeking information, recommendations, and assistance during their stay in Prague. I will keep u up with my work on this one !
+![Chatbot](https://github.com/zablo-dev/zablo-dev.github.io/assets/154751011/46189adb-d8ae-443e-b22a-f2ede4077810)
+### DWH
+- During my tenure, I spearheaded a pivotal use case for ŠKODA, where I seamlessly integrated all facets of my expertise. From architecting the Data Warehouse to meticulously crafting data models, orchestrating ETL processes using SSIS, and enabling live query integration with Power BI, every step was meticulously executed. The culmination of these efforts resulted in the delivery of a comprehensive report, empowering stakeholders with actionable insights to address cash flow challenges effectively. This experience underscored not only my technical prowess but also my ability to translate data into tangible business solutions, driving value for ŠKODA and showcasing my proficiency in data analytics and reporting.
+![l1](https://github.com/zablo-dev/zablo-dev.github.io/assets/154751011/f4e66201-ac0d-415d-91ef-5ad8cb6fa764)
+![report](https://github.com/zablo-dev/zablo-dev.github.io/assets/154751011/f969cb92-da17-4cba-8384-217043aa022d)
+## Keboola
+- Currently, I am actively engaged in a data challenge with Keboola, focusing on data analysis for the marketing department. Collaborating closely with Keboola's team, I leverage Keboola's platform to perform advanced analytics, derive actionable insights, and optimize marketing strategies based on data-driven recommendations. I Will keep u up on this one !
+![keboola](https://github.com/zablo-dev/zablo-dev.github.io/assets/154751011/81df46c2-eb4d-4766-ab3c-e0a46244a467)
+## Dawiso
+- In my journey towards comprehensive data management and quality assurance, I've had the privilege of leveraging Dawiso software, marking the final chapter of my expertise exploration. Dawiso stands as a robust solution for data management, offering advanced capabilities in data profiling, cleansing, and enrichment.
+![dawiso](https://github.com/zablo-dev/zablo-dev.github.io/assets/154751011/4de0de89-c4b0-4ddd-8a01-2c69ef9c64f5)
