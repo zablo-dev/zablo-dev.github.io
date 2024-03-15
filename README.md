@@ -30,4 +30,8 @@
 ![burger 1](https://github.com/zablo-dev/zablo-dev.github.io/assets/154751011/30c9db56-5dcf-4945-b971-15054af1bf0c)
 ![burger 2](https://github.com/zablo-dev/zablo-dev.github.io/assets/154751011/813ab7b5-6a5f-4864-bc80-d47d717606c9)
 ### Python and ML
-### Cloud and AI (future technologies)
+web scraping, ML, etl pipeliny
+### Other technologies
+Keboola - projekt
+Tvorba dwh
+Dawiso - kvalita
