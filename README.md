@@ -14,11 +14,12 @@
 - Provided ongoing maintenance and updates to keep the website functional and secure.
 - Integrated multimedia elements such as images, videos, and animations into the website.
 
-**Chess club instructor ** (_October 2016 - October 2017_)**
+**Chess club instructor (_October 2016 - October 2017_)**
 - Organizing and planning lessons.
 - Dealing with schools and parents.
 - Coordinating other teachers and team support in preparation.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
+![EEG Band Discovery](/assets/Údaj QR.png)
 
