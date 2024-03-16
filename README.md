@@ -5,7 +5,7 @@
 ## Education
 - Ing, Data analytics for business | Faculty of Informatics and Statistics VŠE Prague (_May 2025_)								       		
 - Bc, Applied computer science | Faculty of Informatics and Statistics VŠE Prague (_June 2023_)	 			        		
-- Střední průmyslová škola strojní a stavební,Tábor (_May 2020_)
+- Secondary School of Mechanical Engineering and Construction, Tábor (_May 2020_)
 
 ## Work Experience
 **Freelance web designer (_June 2021 - Present_)**
@@ -21,7 +21,6 @@
 
 ## Projects
 ### Reporting and BI
-- In the realm of data-driven decision-making, my expertise lies in harnessing the power of reporting tools like Tableau and Power BI to extract actionable insights and drive business value.
 -  My proficiency in reporting tools such as PowerBI and Tableau enables me to create dynamic reports and dashboards that empower stakeholders to make informed decisions.
 -  My adeptness in Power BI encompasses a range of skills, including dashboard development, report creation, live querying, and proficiency in DAX and Power Query.
 -  Report showing the evaluation of marketing efforts within the Loreal case study:
